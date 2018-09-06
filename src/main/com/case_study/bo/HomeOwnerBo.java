@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import com.case_study.dao.HomeOwnerDao;
 import com.case_study.model.HomeOwner;
 
-
+//adding comment
 public class HomeOwnerBo {
 	public int registerHomeOwner(HomeOwner owner) throws IOException, SQLException
 	{
